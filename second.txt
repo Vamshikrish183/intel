@@ -2,4 +2,5 @@ Hyderabad --1500
 
 testing tags annotated files 
 
+autimatic tags push is enabled
 
